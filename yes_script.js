@@ -6,9 +6,9 @@ function displayUserName() {
 
     // Display the user's name in the h1 tag
     if (userName) {
-        document.getElementById('userNameDisplay').innerText = "YAYYYEEEEE!!!!!!!!!!! Let's go , " + userName + "!";
+        document.getElementById('userNameDisplay').innerText = "YAYYYEEEEE!!!!!!!!!!! LET'S GO , " + userName + ":)","!";
     } else {
         // Handle the case where the user's name is not available
-        document.getElementById('userNameDisplay').innerText = "YAYYYEEEEE!!!!!!!!!!! WAZIR ";
+        document.getElementById('userNameDisplay').innerText = "YAYYYEEEEE! LET'S GO WAZIR :)";
     }
 }
